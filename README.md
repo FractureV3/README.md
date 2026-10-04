@@ -3,8 +3,6 @@
 
 #### If you want to collaborate on a project, feel free to [contact me](https://discord.com/users/1199165998998245377).
 
-### [Gitlab](https://gitlab.com/not-amplify)
-
 ###
 
 <div align="center">
